@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 def calculator():
 	"""Run a simple command-line calculator."""
 	while True:
@@ -14,3 +15,9 @@ def calculator():
 
 if __name__ == "__main__":
 	calculator()
+=======
+# test code
+print("Hello Nikita!")
+int("5")
+str(5)
+>>>>>>> main
