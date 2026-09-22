@@ -1,6 +1,6 @@
 # firtsHOURstudy
 Studies
-# Studies form youtube
+# Studies from youtube
 
 ## Subheader
 
