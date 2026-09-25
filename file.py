@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 def calculator():
 	"""Run a simple command-line calculator."""
 	while True:
